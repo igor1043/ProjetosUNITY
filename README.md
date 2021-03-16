@@ -5,7 +5,7 @@ Minha Produções realizadas na Engine Unity. A grande maioria dos scripts produ
 JavaScript/ C#
 ## Sobre este repositório
 
-Minha Produções realizadas na Engine Unity. A grande maioria dos scripts produzidos foram desenvolvidos em CSharp e JavaScript
+Minha Produções realizadas na Engine Unity. A grande maioria dos scripts produzidos foram desenvolvidos em CSharp e JavaScript  
 ![GitHub Logo](/Img/game doctor-min.gif)
 ## Autor
 
