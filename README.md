@@ -5,7 +5,7 @@ Minha Produções realizadas na Engine Unity. A grande maioria dos scripts produ
 JavaScript/ C#
 ## Sobre este repositório
 
-Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
+Minha Produções realizadas na Engine Unity. A grande maioria dos scripts produzidos foram desenvolvidos em CSharp e JavaScript
 
 ## Autor
 
